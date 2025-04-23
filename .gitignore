@@ -1,0 +1,15 @@
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Cache editor / OS
+*.swp
+*.swo
+*~
+
+# Temporanei LaTeX (nel caso copi also i build log)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
